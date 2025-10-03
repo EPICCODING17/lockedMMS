@@ -1,4 +1,3 @@
-<script>
 pdfMake.fonts = {
   THSarabunNew: {
       normal: 'https://sanwithz.github.io/font/THSarabunNew.ttf',
@@ -1053,5 +1052,3 @@ const clearAllAlerts = () => {
   renderAlertData();
   updateAlertBadge();
 }
-
-</script>
